@@ -1,5 +1,5 @@
 ---
-title: "Brett Watson"
+title: ""
 about:
   template: jolla
   #image: images/hs_sml.PNG
@@ -9,58 +9,43 @@ about:
       href: https://github.com/brettjwatson
 ---
 
-::: {.grid}
-
+::::: grid
 ::: {.g-col-12 .g-col-md-8}
-
 # Brett Watson
 
 **Applied & Natural Resource Economist**
 
-Associate Professor  
-Institute of Social and Economic Research  
+Associate Professor\
+Institute of Social and Economic Research\
 University of Alaska Anchorage
 
-I am an applied economist whose research focuses on natural resources,
-energy, fisheries, mining, and regional economic policy. Much of my work
-examines how institutions, markets, and public policy shape economic
-outcomes in Alaska and other resource-dependent regions.
+I am an applied economist whose research focuses on natural resources, energy, fisheries, mining, and regional economic policy. Much of my work examines how institutions, markets, and public policy shape economic outcomes in Alaska and other resource-dependent regions.
 
 [Curriculum Vitae](cv.qmd) · [Research](research.qmd) · [Policy Work](policy.qmd)
-
 :::
 
 ::: {.g-col-12 .g-col-md-4}
-
 ![](images/hs_sml.PNG){fig-alt="Brett Watson" width="260"}
-
 :::
-
-:::
+:::::
 
 ## Selected Research
 
 ### Fisheries, Property Rights, and Participation
 
-Research examining how commercial fishing institutions, transferable
-permits, owner-operator requirements, labor markets, and household
-constraints affect entry, exit, and ownership in Alaska fisheries.
+Research examining how commercial fishing institutions, transferable permits, owner-operator requirements, labor markets, and household constraints affect entry, exit, and ownership in Alaska fisheries.
 
 [Learn more](research.qmd)
 
 ### Energy Markets and Infrastructure
 
-Work on natural gas markets, LNG development, energy security, and the
-economics of large-scale infrastructure in Alaska and the Pacific
-energy market.
+Work on natural gas markets, LNG development, energy security, and the economics of large-scale infrastructure in Alaska and the Pacific energy market.
 
 [Learn more](research.qmd)
 
 ### Mining and Critical Minerals
 
-Research on mine development, mine productivity, critical-mineral
-supply chains, mine waste reprocessing, and the economic consequences
-of permitting and ownership changes.
+Research on mine development, mine productivity, critical-mineral supply chains, mine waste reprocessing, and the economic consequences of permitting and ownership changes.
 
 [Learn more](research.qmd)
 

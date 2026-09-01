@@ -1,0 +1,25 @@
+---
+title: "Research"
+---
+
+My research focuses broadly on natural resource economics, energy,
+regional economics, and public policy.
+
+## Fisheries & Natural Resource Institutions
+
+### Property Rights and Participation in Alaska Commercial Fisheries
+
+This project examines how the creation and transfer of commercial
+fishing rights affect participation over time.
+
+**Status:** Working paper
+
+[Paper] · [Slides] · [Data]
+
+## Energy & Resource Economics
+
+### Alaska LNG and Pacific Natural Gas Markets
+
+Research examining the competitiveness of Alaska LNG under uncertainty
+about construction costs, long-run JKM prices, financing, and global
+LNG supply.

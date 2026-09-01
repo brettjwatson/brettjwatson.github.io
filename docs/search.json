@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Brett Watson",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Applied & Natural Resource Economist\nAssociate Professor\nInstitute of Social and Economic Research\nUniversity of Alaska Anchorage\nI am an applied economist whose research focuses on natural resources, energy, fisheries, mining, and regional economic policy. Much of my work examines how institutions, markets, and public policy shape economic outcomes in Alaska and other resource-dependent regions.\nCurriculum Vitae · Research · Policy Work"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,40 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#selected-research",
+    "href": "index.html#selected-research",
+    "title": "Brett Watson",
+    "section": "Selected Research",
+    "text": "Selected Research\n\nFisheries, Property Rights, and Participation\nResearch examining how commercial fishing institutions, transferable permits, owner-operator requirements, labor markets, and household constraints affect entry, exit, and ownership in Alaska fisheries.\nLearn more\n\n\nEnergy Markets and Infrastructure\nWork on natural gas markets, LNG development, energy security, and the economics of large-scale infrastructure in Alaska and the Pacific energy market.\nLearn more\n\n\nMining and Critical Minerals\nResearch on mine development, mine productivity, critical-mineral supply chains, mine waste reprocessing, and the economic consequences of permitting and ownership changes.\nLearn more"
+  },
+  {
+    "objectID": "index.html#current-work",
+    "href": "index.html#current-work",
+    "title": "Brett Watson",
+    "section": "Current Work",
+    "text": "Current Work\n\nCommercial fishing permit ownership and demographic change\nCook Inlet natural gas supply and LNG imports\nAlaska LNG competitiveness and long-run LNG prices\nCritical minerals and mine waste reprocessing\nMine ownership changes and productivity\nAlaska employment, energy, and fiscal conditions"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research focuses broadly on natural resource economics, energy, regional economics, and public policy."
+  },
+  {
+    "objectID": "research.html#fisheries-natural-resource-institutions",
+    "href": "research.html#fisheries-natural-resource-institutions",
+    "title": "Research",
+    "section": "Fisheries & Natural Resource Institutions",
+    "text": "Fisheries & Natural Resource Institutions\n\nProperty Rights and Participation in Alaska Commercial Fisheries\nThis project examines how the creation and transfer of commercial fishing rights affect participation over time.\nStatus: Working paper\n[Paper] · [Slides] · [Data]"
+  },
+  {
+    "objectID": "research.html#energy-resource-economics",
+    "href": "research.html#energy-resource-economics",
+    "title": "Research",
+    "section": "Energy & Resource Economics",
+    "text": "Energy & Resource Economics\n\nAlaska LNG and Pacific Natural Gas Markets\nResearch examining the competitiveness of Alaska LNG under uncertainty about construction costs, long-run JKM prices, financing, and global LNG supply."
   }
 ]
