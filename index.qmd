@@ -1,5 +1,5 @@
 ---
-title: "PersonalWebsite"
+title: "Brett Watson"
 ---
 
 This is a Quarto website.
