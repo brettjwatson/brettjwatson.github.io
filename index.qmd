@@ -1,11 +1,10 @@
 ---
 title: "Brett Watson"
+about:
+  template: jolla
+  image: images/hs_sml.PNG
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/brettjwatson
 ---
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
